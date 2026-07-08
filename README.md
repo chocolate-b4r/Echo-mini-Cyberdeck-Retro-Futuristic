@@ -131,15 +131,6 @@ Base UI layer only. All assets above represent underlying screens.
 
 ---
 
-## INSTALLATION
-
-Flash official firmware first, then install custom firmware/theme.
-
-Use a clean Fiio image. Do not modify already modified builds unless you understand the structure.
-
-Wait a few seconds after writing files and always safely eject before unplugging.
-
----
 
 ## NOTES
 
