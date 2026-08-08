@@ -138,11 +138,6 @@ Two alternate shutdown static images are included for users who prefer no QR scr
 
 ---
 
-## SUPPORT
-
-- Instagram: https://www.instagram.com/ekramul_preferably_nothing/
-- Portfolio: https://preferablynothing.netlify.app/
-- YouTube: https://www.youtube.com/@Paraphernalia25
 
 Enjoy.
 
