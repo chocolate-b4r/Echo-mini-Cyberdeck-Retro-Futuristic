@@ -138,6 +138,8 @@ Two alternate shutdown static images are included for users who prefer no QR scr
 
 ---
 
+⋆☕︎˖ https://ko-fi.com/chocol4t3
+
 
 Enjoy.
 
