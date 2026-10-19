@@ -138,7 +138,7 @@ Two alternate shutdown static images are included for users who prefer no QR scr
 
 ---
 
-⋆☕︎˖ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L7Q6291R6A)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L7Q6291R6A)
 
 
 Enjoy.
